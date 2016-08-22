@@ -1,0 +1,11 @@
+.code_page {
+	margin: auto;
+	width: 50%;
+    text-align: left;
+    background: #none;
+    font-family: monospace;
+	font-size: 90%;
+	line-height: normal; 
+}
+
+.code_page .num { color: #858585; }
